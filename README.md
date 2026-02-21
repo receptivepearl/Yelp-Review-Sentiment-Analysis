@@ -28,7 +28,7 @@ Raw Yelp reviews are cleaned and standardized before modeling to reduce noise an
 * Filter stopwords
 * Tokenize text for downstream processing
 
-This step preserves semantic meaning while removing irrelevant variation in the data.
+This step preserves semantic meaning while removing irrelevant variation in the data
 
 ---
 
